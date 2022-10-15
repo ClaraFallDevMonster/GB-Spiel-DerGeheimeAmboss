@@ -238,6 +238,10 @@ body {
     border: 0px;
     border-radius: 0px;
   }
+
+  #steuerung {
+    display: none;
+  }
 }
 
 @media only screen and (max-device-width: 812px) and (orientation: portrait) {
