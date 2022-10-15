@@ -14,6 +14,7 @@ body {
 }
 
 #steuerung {
+  margin-top: 100%;
   font-family: 'VT323', monospace;
   color: grey;
   font-size: 1rem;
