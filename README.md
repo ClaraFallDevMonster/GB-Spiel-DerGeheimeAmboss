@@ -22,3 +22,9 @@ GB Studio
 Music:
 Mystic Quest,
 Deer Tears (Github)
+
+Steuerung:
+Hoch = (ArrowUp,W) Runter = (ArrowDown,S)
+Links = (ArrowLeft,A) Rechts = (ArrowRight,D)
+A-Knopf = (J) B-Knopf = (K)
+START = (Enter) SELECT = (Shift)
